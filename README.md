@@ -1,16 +1,16 @@
-Project Setup
-npm install
+<h4>Project Setup:</h4>
+$ npm install
 
-Start a Dev server
-npm start
+<h4>Start a Dev server:</h4>
+$ npm start
 
-API end points
-#Login
-http://localhost:3000/auth/login
+<h5>API end points:</h5>
+<b>#Login</b></br>
+http://localhost:3000/auth/login</br>
 {"email": "hh@hh.com", "password": "hhhh"}
 
-#register
-http://localhost:3000/register
+<b>#register</b></br>
+http://localhost:3000/register</br>
 {
   "email": "string",
   "password": "string",
